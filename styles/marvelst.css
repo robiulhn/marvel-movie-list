@@ -1,13 +1,26 @@
 *{
     margin: 0;
-    padding: 0;
 }
+#head{
+    background-image: url(/images/marvel-1.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+.head{
+    color: rgb(214, 202, 202);
+    border: 0% solid;
+    text-align: center;
+    margin: 20px;
+    font-size: 10ch;
+    /* background-image: url(); */
+    
 
-.heading{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 900;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    right: 50%;
 }
+.headp{
+    color: rgb(132, 4, 4);
+    text-align: center;
+    margin: 10px 40px 20px 40px;
+    padding: 2ch 10ch 2ch 5ch;
+    font-size: 2.4ch;
+    font-weight: bold;
+}   
